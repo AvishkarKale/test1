@@ -5,3 +5,5 @@ feature 1
 =======
 bugfix 1
 >>>>>>> main
+
+feature 2
